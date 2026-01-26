@@ -11,7 +11,7 @@ This is a responsive landing page for The Draftsman International company. This 
 ![landing page screenshot](image.png)
 
 ## Set up abd installation
-### clone the repository
+### the repository
 ```bash
 https://github.com/delarum/html-projects.git
 ```
