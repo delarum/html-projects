@@ -8,7 +8,7 @@ A simulation of a real drafting company committed to making projects and design 
 This is a responsive landing page for The Draftsman International company. This project simulates a real professional company landing page including all features necessary to navigate a company's landing page. 
 
 ## Screenshot
-insert image of your website
+![landing page screenshot](assets\ChatGPT Image Jan 25, 2026, 05_15_40 PM copy.png)
 
 ## Set up abd installation
 ### clone the repository
